@@ -9,7 +9,7 @@ add to `book.json`
 ```
 {
   "plugins": [
-    "footer"
+    "custom-footer"
   ],
   "pluginsConfig": {
     "layout": {
