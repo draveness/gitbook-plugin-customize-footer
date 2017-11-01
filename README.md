@@ -9,10 +9,10 @@ add to `book.json`
 ```
 {
   "plugins": [
-    "custom-footer"
+    "footer"
   ],
   "pluginsConfig": {
-    "custom-footer": {
+    "layout": {
       "footerPath" : "layouts/footer.html"
     }
   }

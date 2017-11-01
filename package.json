@@ -7,15 +7,6 @@
     "engines": {
         "gitbook": "*"
     },
-    "gitbook": {
-        "properties": {
-            "footerPath": {
-                "description": "location of footer html",
-                "required": true,
-                "type": "string"
-            }
-        }
-    },
     "homepage": "https://github.com/dtolb/gitbook-plugin-custom-footer#readme",
     "keywords": [
         "gitbook",
