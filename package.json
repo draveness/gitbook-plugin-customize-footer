@@ -1,0 +1,45 @@
+{
+    "author": "stefanzan",
+    "bugs": {
+        "url": "https://github.com/dtolb/gitbook-plugin-custom-footer/issues"
+    },
+    "description": "add footer to gitbook projects",
+    "engines": {
+        "gitbook": "*"
+    },
+    "gitbook": {
+        "properties": {
+            "footer": {
+                "description": "location of footer html",
+                "required": true,
+                "type": "string"
+            }
+        }
+    },
+    "homepage": "https://github.com/dtolb/gitbook-plugin-custom-footer#readme",
+    "keywords": [
+        "gitbook",
+        "footer",
+        "plugins"
+    ],
+    "main": "index.js",
+    "maintainers": [
+        {
+            "email": "stefanzan@163.com",
+            "name": "stefanzan"
+        },
+        {
+            "email": "danielptolbert@gmail.com",
+            "name": "dtolb"
+        }
+    ],
+    "name": "gitbook-plugin-custom-footer",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dtolb/gitbook-plugin-custom-footer.git"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "version": "1.0.0"
+}
