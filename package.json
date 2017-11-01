@@ -9,7 +9,7 @@
     },
     "gitbook": {
         "properties": {
-            "footer": {
+            "footerPath": {
                 "description": "location of footer html",
                 "required": true,
                 "type": "string"

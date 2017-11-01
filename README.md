@@ -12,8 +12,8 @@ add to `book.json`
     "custom-footer"
   ],
   "pluginsConfig": {
-    "layout": {
-      "footer" : "layouts/footer.html"
+    "custom-footer": {
+      "footerPath" : "layouts/footer.html"
     }
   }
 }
