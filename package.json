@@ -1,13 +1,13 @@
 {
     "author": "stefanzan",
     "bugs": {
-        "url": "https://github.com/dtolb/gitbook-plugin-custom-footer/issues"
+        "url": "https://github.com/Bandwidth/gitbook-plugin-custom-footer/issues"
     },
     "description": "add footer to gitbook projects",
     "engines": {
         "gitbook": "*"
     },
-    "homepage": "https://github.com/dtolb/gitbook-plugin-custom-footer#readme",
+    "homepage": "https://github.com/Bandwidth/gitbook-plugin-custom-footer#readme",
     "keywords": [
         "gitbook",
         "footer",
@@ -27,7 +27,7 @@
     "name": "gitbook-plugin-custom-footer",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/dtolb/gitbook-plugin-custom-footer.git"
+        "url": "git+https://github.com/Bandwidth/gitbook-plugin-custom-footer.git"
     },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
