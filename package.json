@@ -1,13 +1,13 @@
 {
-    "author": "stefanzan",
+    "author": "draveness",
     "bugs": {
-        "url": "https://github.com/Bandwidth/gitbook-plugin-custom-footer/issues"
+        "url": "https://github.com/draveness/gitbook-plugin-customize-footer/issues"
     },
     "description": "add footer to gitbook projects",
     "engines": {
         "gitbook": "*"
     },
-    "homepage": "https://github.com/Bandwidth/gitbook-plugin-custom-footer#readme",
+    "homepage": "https://github.com/draveness/gitbook-plugin-customize-footer#readme",
     "keywords": [
         "gitbook",
         "footer",
@@ -16,21 +16,17 @@
     "main": "index.js",
     "maintainers": [
         {
-            "email": "stefanzan@163.com",
-            "name": "stefanzan"
-        },
-        {
-            "email": "danielptolbert@gmail.com",
-            "name": "dtolb"
+            "email": "i@draveness.me",
+            "name": "draveness"
         }
     ],
-    "name": "gitbook-plugin-custom-footer",
+    "name": "gitbook-plugin-customize-footer",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Bandwidth/gitbook-plugin-custom-footer.git"
+        "url": "git+https://github.com/draveness/gitbook-plugin-customize-footer.git"
     },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "version": "1.0.3"
+    "version": "1.0.0"
 }
