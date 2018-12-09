@@ -15,8 +15,7 @@ module.exports = {
       var tmpl = '';
       if (pathFile && fs.existsSync(pathFile)) tmpl = fs.readFileSync(pathFile, {encoding: 'utf-8'});
 
-      console.log(page.content);
-      page.content = page.content + tmpl;
+      page.content = page.content + '\n\n' + tmpl;
 
       return page;
     }
